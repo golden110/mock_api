@@ -3,6 +3,8 @@
         "errno": 0,
         "errmsg": "网络接口错误了",
         "data": {
+            "total": 18,
+            "hasmore": 1,
             "list": [
                 {
                     "nid": "6670947942850120238",
